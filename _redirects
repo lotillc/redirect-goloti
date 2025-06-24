@@ -5,6 +5,9 @@
 /from-elvis-to-ai-how-u-s-laws-have-adapted-to-protect-digital-rights https://www.lotiai.com/blog/from-elvis-to-ai-how-u-s-laws-have-adapted-to-protect-digital-rights 301!
 /the-rise-of-deepseek-how-deepseek-s-ai-model-is-challenging-industry-norms-and-raising-global-concerns https://www.lotiai.com/blog/the-rise-of-deepseek-how-deepseeks-ai-model-is-challenging-industry-norms-and-raising-global-concerns 301!
 /the-digital-immune-system-countering-the-threats-of-a-connected-world https://www.lotiai.com/blog/the-digital-immune-system-countering-the-threats-of-a-connected-world 301!
+/onboarding https://www.lotiai.com/sign-up 301!
+/terms https://www.lotiai.com/acceptable-use-policy 301!
+/forgot-password https://www.lotiai.com/sign-up 301!
 
 # --- High-traffic legacy pages ---
 /page https://www.lotiai.com/blog 301!
@@ -13,4 +16,5 @@
 
 # --- Catch-All Redirect ---
 /* https://www.lotiai.com/:splat 301!
+
 
