@@ -1,1 +1,14 @@
+# --- Specific Redirects (priority) ---
+/seeing-isn-t-believing-the-technology-behind-deepfakes https://lotiai.com/blog/seeing-isn-t-believing-the-technology-behind-deepfakes 301!
+/page https://lotiai.com/blog 301!
+/home https://www.lotiai.com/ 301!
+/blog https://lotiai.com/blog 301!
+
+# Optional: entire old subdomains
+# You need DNS + Netlify wildcard setup for these to work
+# If Netlify receives these subdomains, this will apply:
+https://consumer-doc.goloti.com/* https://www.lotiai.com/:splat 301!
+https://wme.goloti.com/* https://www.lotiai.com/:splat 301!
+
+# --- Catch-All Redirect ---
 /* https://lotiai.com/:splat 301!
