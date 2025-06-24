@@ -1,5 +1,4 @@
 # --- Specific Redirects (priority) ---
-
 /seeing-isn-t-believing-the-technology-behind-deepfakes https://lotiai.com/blog/seeing-isnt-believing-the-technology-behind-deepfakes 301!
 /impersonator-accounts-bigger-threat-than-deepfakes-harris-vs-trump https://www.lotiai.com/blog/impersonator-accounts-bigger-threat-than-deepfakes-harris-vs-trump 301!
 /beyond-deepfakes-how-impersonation-is-becoming-the-fastest-growing-cybercrime-trend https://www.lotiai.com/blog/beyond-deepfakes-how-impersonation-is-becoming-the-fastest-growing-cybercrime-trend 301!
@@ -12,5 +11,4 @@
 /blog https://lotiai.com/blog 301!
 
 # --- Catch-All Redirect ---
-
 /\* https://lotiai.com/:splat 301!
